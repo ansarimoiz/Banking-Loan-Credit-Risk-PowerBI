@@ -87,6 +87,7 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 > Overview of the banking data with summary statistics and key visuals.  
 
 <img src="powerbi/page1_home.png" alt="Page 1 - Home" width="700"/>
+<img width="1304" height="732" alt="image" src="https://github.com/user-attachments/assets/a5a65314-f7df-4659-a365-f14ecbb3869b" />
 
 ---
 
@@ -94,6 +95,7 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 > Insights into loan distribution, types, and customer segments.  
 
 <img src="powerbi/page2_loan_analysis.png" alt="Page 2 - Loan Analysis" width="700"/>
+<img width="1305" height="732" alt="image" src="https://github.com/user-attachments/assets/883be67b-d71c-477d-9327-5ff623fefd00" />
 
 ---
 
@@ -101,6 +103,7 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 > Breakdown of account balances, deposit types, and correlation patterns.  
 
 <img src="powerbi/page3_deposit_analysis.png" alt="Page 3 - Deposit Analysis" width="700"/>
+<img width="1306" height="733" alt="image" src="https://github.com/user-attachments/assets/214e88b9-6831-4a87-88d7-f335261e93a4" />
 
 ---
 
@@ -108,3 +111,4 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 > Final insights from EDA, including correlations and demographic trends.  
 
 <img src="powerbi/page4_summary.png" alt="Page 4 - Summary" width="700"/>
+![Uploading image.png…]()
